@@ -1,7 +1,0 @@
-﻿  projekt1.cpp
-C:\Users\User\source\repos\projekt2\projekt1\projekt1.cpp(63,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\User\source\repos\projekt2\projekt1\projekt1.cpp(71,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
-C:\Users\User\source\repos\projekt2\projekt1\projekt1.cpp(73,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\User\source\repos\projekt2\projekt1\projekt1.cpp(74,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\User\source\repos\projekt2\projekt1\projekt1.cpp(92,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  projekt1.vcxproj -> C:\Users\User\source\repos\projekt2\Debug\projekt1.exe
